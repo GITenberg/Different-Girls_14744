@@ -1,0 +1,96 @@
+_repo: Different-Girls_14744
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Le Gallienne, Richard
+    aliases:
+    - Gallienne, Richard Le
+    - LeGallienne, Richard
+    birthdate: 1866
+    deathdate: &id001 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+  - agent_name: Alexander, E. A.
+    gutenberg_agent_id: '39386'
+    url: http://www.gutenberg.org/2009/agents/39386
+  - agent_name: Thanet, Octave
+    alias: French, Alice
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '1073'
+    url: http://www.gutenberg.org/2009/agents/1073
+  - agent_name: Ralph, Julian
+    birthdate: 1853
+    deathdate: 1903
+    gutenberg_agent_id: '37533'
+    url: http://www.gutenberg.org/2009/agents/37533
+  - agent_name: De Camp, Charles B.
+    alias: Camp, Charles B. De
+    gutenberg_agent_id: '39314'
+    url: http://www.gutenberg.org/2009/agents/39314
+  - agent_name: Jordan, Elizabeth Garver
+    birthdate: 1867
+    deathdate: *id001
+    gutenberg_agent_id: '197'
+    url: http://www.gutenberg.org/2009/agents/197
+  - agent_name: Mears, Mary M. (Mary Martha)
+    birthdate: 1876
+    deathdate: 1943
+    gutenberg_agent_id: '39396'
+    url: http://www.gutenberg.org/2009/agents/39396
+  - agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+  - agent_name: Hallowell, Eleanor A.
+    gutenberg_agent_id: '39325'
+    url: http://www.gutenberg.org/2009/agents/39325
+  - agent_name: Bacon, Mary Applewhite
+    gutenberg_agent_id: '36751'
+    url: http://www.gutenberg.org/2009/agents/36751
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Alden, Henry Mills
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '2444'
+    url: http://www.gutenberg.org/2009/agents/2444
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Mills_Alden
+  - agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2005-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14744'
+  lccn: 06028758
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: The Little Joys of Margaret, by Richard le Gallienne -- Kittie's
+  Sister Josephine, by Elizabeth Jordan -- The Wizard's Touch, by Alice Brown -- The
+  Bitter Cup, by Charles B. De Camp -- His Sister, by Mary Applewhite Bacon -- The
+  Perfect Year, by Eleanor A. Hallowell -- Editha, by William Dean Howells -- The
+  Stout Miss Hopkins's Bicycle, by Octave Thanet -- The Marrying of Esther, by Mary
+  M. Mears -- Cordelia's Night of Romance, by Julian Ralph -- The Prize-Fund Beneficiary,
+  by E. A. Alexander.
+title: Different Girls
+url: http://www.gutenberg.org/ebooks/14744
