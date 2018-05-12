@@ -7,7 +7,7 @@ contributor:
     - Gallienne, Richard Le
     - LeGallienne, Richard
     birthdate: 1866
-    deathdate: &id001 1947
+    deathdate: 1947
     gutenberg_agent_id: '246'
     url: http://www.gutenberg.org/2009/agents/246
     wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
@@ -31,7 +31,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/39314
   - agent_name: Jordan, Elizabeth Garver
     birthdate: 1867
-    deathdate: *id001
+    deathdate: 1947
     gutenberg_agent_id: '197'
     url: http://www.gutenberg.org/2009/agents/197
   - agent_name: Mears, Mary M. (Mary Martha)
@@ -72,6 +72,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/97
     wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14744#Different-Girls
 gutenberg_issued: '2005-01-20'
 gutenberg_type: Text
 identifiers:
